@@ -10,6 +10,12 @@ A modern, high-performance full-stack blogging platform built with **Django REST
 
 ---
 
+## 📸 Preview
+
+![Application Screenshot](ss.png)
+
+---
+
 ## 🚀 Features
 
 ### 👤 User Management
